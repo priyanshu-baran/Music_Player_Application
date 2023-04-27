@@ -11,7 +11,7 @@ A simple music player webpage made using HTML, CSS, and JavaScript for self-lear
 
 <br>
 
-You can view the demo of this application by following <a href="https://music-player-application.netlify.app/" target="_blank">this link</a> . Although I have also provided the screenshots below of exactly how it looks like.<br>
+You can view the demo of this application by following <a href="https://my-own-music-player-application.netlify.app/" target="_blank">this link</a> . Although I have also provided the screenshots below of exactly how it looks like.<br>
 For this one, I have used <a href="https://app.netlify.com" target="_blank">Netlify</a> to host the quiz.
 <br>
 
