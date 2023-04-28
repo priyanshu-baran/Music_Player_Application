@@ -7,7 +7,7 @@ A simple music player webpage made using HTML, CSS, and JavaScript for self-lear
 
 ---
 
-## Demo
+## Demo 👀
 
 <br>
 
@@ -25,7 +25,7 @@ For this one, I have used <a href="https://app.netlify.com" target="_blank">Netl
 
 ---
 
-## Features
+## Features 🌟🌟
 
 <br>
 
@@ -44,7 +44,7 @@ For this one, I have used <a href="https://app.netlify.com" target="_blank">Netl
 
 ---
 
-## Usage
+## Usage 📖
 
 <br>
 
@@ -63,7 +63,7 @@ For this one, I have used <a href="https://app.netlify.com" target="_blank">Netl
 
 ---
 
-## Contributing
+## Contributing 📝
 
 <br>
 
